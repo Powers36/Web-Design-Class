@@ -1,0 +1,24 @@
+
+
+body {
+  font-family: Georgia, serif;
+  font-size: 18px; 
+  line-height: 1.6;
+}
+
+/* --------------------------------------------------------------------------
+   Headings & Paragraphs
+   -------------------------------------------------------------------------- */
+h1, h2, p, blockquote {
+  margin-top:  28.8px;
+  margin-bottom: 28.8px;
+}
+
+/* --------------------------------------------------------------------------
+   Blockquote Styles
+   -------------------------------------------------------------------------- */
+blockquote {
+  font-style: italic, bold; 
+  color: black; 
+  background-color: grey; 
+}
